@@ -1,0 +1,6 @@
+{
+  "mysqlUrl": "jdbc:mysql://localhost:3306/hear_our_opinion",
+  "user": "root",
+  "password": "0000",
+  "MysqlDriverName": "com.mysql.cj.jdbc.Driver"
+}

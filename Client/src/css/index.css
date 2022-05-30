@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Tapestry&display=swap");
+
+body {
+    margin: 0;
+    font-family: "Tapestry", cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    margin: 0;
+    background-color: #10082e;
+    background: -webkit-linear-gradient(#10082e, #a421b5);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
